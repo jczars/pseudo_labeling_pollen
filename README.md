@@ -4,15 +4,14 @@ example of pseudo labeling code with pollen. The objective is to separate the po
 # Folder structure
 Download database BI_5, https://drive.google.com/drive/folders/1xrAgWbetZRCLCRQOzBwSTzZBkmOcf0b-?usp=drive_link
 
-BI_5
->labels
->>equatorial_alongada
->>equatorial_circular
->>equatorial_eliptica
->>polar_circular
->>polar_triangular
->>polar_tricircular
+BI_5/
+  |__labels
+    |__equatorial_alongada
+    |__equatorial_circular
+    |__equatorial_eliptica
+    |__polar_circular
+    |__polar_triangular
+    |__polar_tricircular
+  |__unlabels
 
->unlabels
-
-CLASS_PSEUDO
+CLASS_PSEUDO/
