@@ -3,6 +3,7 @@ example of pseudo labeling code with pollen. The objective is to separate the po
 
 # Folder structure
 Download database BI_5, https://drive.google.com/drive/folders/1xrAgWbetZRCLCRQOzBwSTzZBkmOcf0b-?usp=drive_link
+
 BI_5
 >labels
 >>equatorial_alongada
